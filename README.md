@@ -4,4 +4,4 @@
 
 #### I have used Tkinte package / method for GUI
 
-#### To run execute mainly.py
+ To run execute mainly.py
